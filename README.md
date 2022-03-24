@@ -84,3 +84,14 @@ This *next section* contains the steps you need to start implementing the DR sol
 ### Part ... - ABC
 
 //content//
+
+----------------
+
+\
+\
+**[Click Here to go Back to Top](#Acronis-Teknov8-AzureDR-EvalGuide-Draft01)**
+
+## Questions / feedback
+
+*Any questions can be addressed to the partner*
+
