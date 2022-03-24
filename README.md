@@ -49,20 +49,22 @@ Whilst you can backup and protect Azure IaaS VMs there is no seperate solution o
 
 **Note** you should however be ware of some of the langauage/ nomenclature used in documentation/UI. This may refer to *on-premises* which in our case would mean *Azure*; a *local site* or *network* or *instance* would refer to *Azure*; and a *Physical Machine/ Server* in the UI would be an *Azure VM*. 
 
-Those are just a few examples; in essence you can think of really of Azure as a remote datacenter of yours, a colocation facility, another site on your WAN/ MPLS for example.
+Those are just a few examples; in essence you can think of Azure as a remote datacenter of yours, a colocation facility, another site on your WAN/ MPLS for example.
 
 ----
 ## Deployment Workflow
 
+**Install | Configure | Oprerate**
+
 This guide will walk you through deploying a sandboxed infrastructure - the general flow will be as follows:
 
-* **Part 1 - Deploy your Azure IaaS VM Host**: In this step, you'll create a VM in Azure using an Azure Resource Manager template. This VM will run Windows Server 2019 Datacenter, with the full desktop experience. PowerShell DSC will automatically configure this VM with the appropriate roles and features, download the necessary binaries, and configure 2 Azure Stack HCI 21H2 nodes, ready for clustering.
+* **Prerequisites**
 
-* **Part 2 - Configure your Azure Stack HCI 21H2 Cluster**: In this step, you'll use Windows Admin Center to deploy an Azure Stack HCI 21H2 cluster - along with a Cloud Witness, a Cluster Shared Volume, and finally, you'll register this cluster with Azure.
+* **Part 1 - Deploy Acronis Agent**: In this step, you'll deploy the Acronis Agent; this can be carried out directly from the Azure Portal via a VM extension, or it can be downloaded directly on the VM to be protected by downloading an install file via a browser form the Acronis portal.
 
-* **Part 3 - Integrate Azure Stack HCI 21H2 with Azure**: In this step, you'll use Windows Admin Center to register your Azure Stack HCI Cluster with Azure and explore what appears in the portal.
+* **Part 2 - Configure Acronis Agent**: In this step, you'll configure the protection of the VMs; this will include creating a recovery plan as well as implementing connectivity between the Azure abnd Acronis platforms.
 
-* **Part 4 - Explore the management and operation of your Azure Stack HCI 21H2 environment**: With your deployment completed, you're now ready to explore many of the management and operational aspects within the Windows Admin Center.
+* **Part 3 - Explore the management and operation of your Acronis DR solution**: With your deployment completed, you're now ready to explore many of the management and operational aspects within the Acronis portal.
 
 ---
 
@@ -73,17 +75,23 @@ This *next section* contains the steps you need to start implementing the DR sol
 
 ### Prerequisites
 
-//content//
+//Content to be aded here...//
 
 --------
 
-### Part 1 - ABC
+### Part 1 - Deploy Acronis Agent
 
-//content//
+//Content to be aded here...//
 
-### Part ... - ABC
 
-//content//
+### Part 2 - Configure Acronis Agent
+
+//Content to be aded here...//
+
+
+### Part 3 - Explore the management and operation of your Acronis DR solution
+
+//Content to be aded here...//
 
 ----------------
 
