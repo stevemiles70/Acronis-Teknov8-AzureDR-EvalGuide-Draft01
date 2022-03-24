@@ -47,7 +47,7 @@ To be able to failover your critical workloads, you should back up your data to 
 ## Evaluating in Azure
 Whilst you can backup and protect Azure IaaS VMs there is no seperate solution or agents to be used from the on-prem solution; there is a single set of install binaries and agents that are the same whether the Windows VM, for example, is running in your own on-premises or in an Azure Datacenter.
 
-**Note** you should however be aware of some of the langauage/ nomenclature used in documentation/UI. This may refer to *on-premises* which in our case would mean *Azure*; a **local** site* or *network* or *instance* would refer to *Azure*; and a *Physical Machine/ Server* in the UI would be an *Azure VM*. 
+**Note** you should however be aware of some of the langauage/ nomenclature used in documentation/UI. This may refer to *on-premises* which in our case would mean *Azure*; a **local** *site* or *network* or *instance* would refer to *Azure*; and a *Physical Machine/ Server* in the UI would be an *Azure VM*. 
 
 Those are just a few examples; in essence you can think of Azure as a remote datacenter of yours, a colocation facility, another site on your WAN/ MPLS for example.
 
