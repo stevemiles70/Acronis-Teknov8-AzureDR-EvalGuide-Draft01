@@ -40,7 +40,7 @@ Disaster recovery solutions allow companies to quickly resume business-critical 
 To be able to failover your critical workloads, you should back up your data to Acronis Cloud Storage.... As the disaster occurs, your workload will be failed-over to the //cloud// server running in the Acronis Cyber Disaster Recovery Storage.
 
 ### Can I backup data from Azure VMs ?
-**Yes** you can protect your Azure IaaS VMs with this Acronis Disaster Recovery Solution; this will allow your VM to failover to the //cloud// instance running in the Acronis Cyber Cloud platform and can be failed-back when required; A S2S VPN will be required to provide connectivity between the two sites (Azure and Acronis Platforms) to enable protection.
+**Yes** you can protect your **Azure IaaS VMs** with this **Acronis Disaster Recovery Solution**; this will allow your VM to failover to the //cloud// instance running in the Acronis Cyber Cloud platform and can be failed-back when required; A S2S VPN will be required to provide connectivity between the two sites (Azure and Acronis Platforms) to enable protection.
 
 -----------
 
