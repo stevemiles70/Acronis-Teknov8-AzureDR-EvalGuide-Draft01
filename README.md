@@ -3,7 +3,7 @@ This project aims to provide an evaluation guide for Disaster Recovery for Azure
 
 ## About this documentation
 
-This documentation set will walk you through implementing a **DR Solution** for **Azure IaaS VMs** using **Acronis Cyber Clooud Disaster Recovery**  
+This documentation set will walk you through implementing a **DR Solution** for **Azure IaaS VMs** using **Acronis Cyber Cloud Disaster Recovery**  
 https://www.acronis.com/en-gb/products/backup/disaster-recovery/
 
 From your implemented DR scenario you will then be able to:
