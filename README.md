@@ -60,7 +60,7 @@ This guide will walk you through deploying a sandboxed infrastructure - the gene
 
 * **Prerequisites**
 
-* **Part 1 - Deploy Acronis Agent**: In this step, you'll deploy the Acronis Agent; this can be carried out directly from the Azure Portal via a VM extension, or it can be downloaded directly on the VM to be protected by downloading an install file via a browser form the Acronis portal.
+* **Part 1 - Deploy Acronis Agent**: In this step, you'll deploy the Acronis Agent; this can be carried out directly from the Azure Portal via a VM extension, or it can be downloaded directly on the VM to be protected by downloading an install file via a browser from the Acronis portal.
 
 * **Part 2 - Configure Acronis Agent**: In this step, you'll configure the protection of the VMs; this will include creating a recovery plan as well as implementing connectivity between the Azure abnd Acronis platforms.
 
