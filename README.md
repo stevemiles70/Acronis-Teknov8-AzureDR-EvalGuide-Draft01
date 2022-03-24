@@ -39,14 +39,17 @@ Disaster recovery solutions allow companies to quickly resume business-critical 
 ### Where should I back up my data to perform disaster recovery?
 To be able to failover your critical workloads, you should back up your data to Acronis Cloud Storage.... As the disaster occurs, your workload will be failed-over to the //cloud// server running in the Acronis Cyber Disaster Recovery Storage.
 
-### Can I backup data from Azure VMs
+### Can I backup data from Azure VMs ?
 **Yes** you can protect your Azure IaaS VMs with this Acronis Disaster Recovery Solution; this will allow your VM to failover to the //cloud// instance running in the Acronis Cyber Cloud platform and can be failed-back when required; A S2S VPN will be required to provide connectivity between the two sites (Azure and Acronis Platforms) to enable protection.
 
 -----------
 
 ## Evaluating in Azure
+Whilst you can backup and protect Azure IaaS VMs there is no seperate solution or agents to be used from the on-prem solution; there is a single set of install binaries and agents that are the same whether the Windows VM, for example, is running in your own on-premises or in an Azure Datacenter.
 
-As with any infrastructure technology, in order to test, validate and evaluate the technology, there's typically a requirement for hardware and for this scenario this should ideally be hardware validated for Azure Stack HCI 21H2, found on our [Azure Stack HCI 21H2 Catalog](https://aka.ms/azurestackhcicatalog "Azure Stack HCI 21H2 Catalog") to perform a more real-world evaluation of Azure Stack HCI 21H2.
+**Note** you should however be ware of some of the langauage/ nomenclature used in documentation/UI. This may refer to *on-premises* which in our case would mean *Azure*; a local site or nerywork or instance would refer to Azure; and a *Physical* machine in the UI would be an Azure VM. 
+
+Those are just a few examples; in essence you can think of really of Azure as a remote datacenter of yours, a colocation facility, another site on your WAN/ MPLS for example.
 
 ----
 ## Deployment Workflow
