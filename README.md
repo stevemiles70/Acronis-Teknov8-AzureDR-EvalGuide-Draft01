@@ -72,11 +72,15 @@ This *next section* contains the steps you need to start implementing the DR sol
 *First thing though, this will require you to have the following things in place first:*
 
 ### Prerequisites
-* For operational governance and control it is also **Strongly Recommended** to create a dedicated (*burner*) **Microsoft Tenant** for the purposes of this eval guide.
-* This eval guide requires you to have access to an **Azure Subscription** with access to create a *Resource Group* and at least **Contributor** access on that Resource Group; it is recommended to have *Contributor* access at the **Subscription** scope level for simplicity *(Owner not required)*.
-* You network connectivity shoud allow you access to reach the **Azure Portal** *https://portal.azure.com*, and allow you to open an **RDP Session** to your *ASHCI Host VM* running in Azure; 
+
+//content//
 
 --------
 
-### Part 1 - Deploy your Azure VM host: 
-In this step, you'll create a VM in Azure us
+### Part 1 - ABC
+
+//content//
+
+### Part ... - ABC
+
+//content//
