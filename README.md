@@ -88,23 +88,23 @@ The Acronis agent can be addded by two methods.
 
 1. **Azure Portal using a VM extension**; this is the most streamlined process and has the most integrated feel, from within the VM resource to protect you install the Azure Virtual Machine Acronis Extension and once completed your *Acronis Agent configured Azure VM* will appear in the Acronis Portal under *Machines with agents* screen of the **DEVICES** section on the left hand navigation menu of the portal UI. You can also see the status if the agent from *Agents* screen of the **SETTINGS** section on the left hand navigation menu of the portal UI. *This may take a few minutes to appear*
 
-//Add Azure Portal Extension Image here...//
+   //Add Azure Portal Extension Image here...//
 
-//Add Acronis portal Image here...//
+   //Add Acronis portal Image here...//
 
-Information on extensions can be found at this URL:
-* https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/overview
+   Information on extensions can be found at this URL:
+    * https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/overview
 
 
 2. **Acronis Portal and download installer**; in this method you are required to login to the VM (*interactively via RDP session*), then from a browser access the *Cyber Protect Portal Console* and downloaded the appropriate agent installer and install directly on the VM to be protected.
 
-//Add Acronis portal Image here...//
+   //Add Acronis portal Image here...//
 
-Information on agent installation can be found at this URL:
-* https://kb.acronis.com/content/55052
+   Information on agent installation can be found at this URL:
+    * https://kb.acronis.com/content/55052
 
-Full and detailed information on Acronis Backup and Recovery can be found at this URL:
-https://www.acronis.com/en-us/support/documentation/CyberProtectionService/#backup-and-recovery.html
+   Full and detailed information on Acronis Backup and Recovery can be found at this URL:
+    * https://www.acronis.com/en-us/support/documentation/CyberProtectionService/#backup-and-recovery.html
 
 //Additional content can be aded here...//
 
