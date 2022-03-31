@@ -108,6 +108,7 @@ The Acronis agent can be addded by two methods.
 
 //Additional content can be aded here...//
 
+----
 
 ### Part 2 - Configure for Acronis Disaster Recovery (DR)
 
@@ -115,6 +116,7 @@ The Acronis agent can be addded by two methods.
 
 //Additional content can be aded here...//
 
+----
 
 ### Part 3 - Explore the management and operation of your Acronis DR solution
 
