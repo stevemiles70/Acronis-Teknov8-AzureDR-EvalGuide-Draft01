@@ -86,7 +86,7 @@ In order to complete the deloyment steps you must have access to the Acronis and
 
 The Acronis agent can be addded by two methods.
 
-1. **Azure Portal and VM extension**; this is the most streamlined process and has the most integrated feel, from within the VM resource to protect you install the Azure Virtual Machine Acronis Extension and once completed your *Acronis Agent configured Azure VM* will appear in the Acronis Portal under *Machines with agents* screen of the **DEVICES** section on the left hand navigation menu of the portal UI. You can also see the stauts if the agent from *Agents* screen of the **SETTINGS** section on the left hand navigation menu of the portal UI. *This may take a few minutes to appear*
+1. **Azure Portal using a VM extension**; this is the most streamlined process and has the most integrated feel, from within the VM resource to protect you install the Azure Virtual Machine Acronis Extension and once completed your *Acronis Agent configured Azure VM* will appear in the Acronis Portal under *Machines with agents* screen of the **DEVICES** section on the left hand navigation menu of the portal UI. You can also see the stauts if the agent from *Agents* screen of the **SETTINGS** section on the left hand navigation menu of the portal UI. *This may take a few minutes to appear*
 
 //Add Azure Portal Extension Image here...//
 
