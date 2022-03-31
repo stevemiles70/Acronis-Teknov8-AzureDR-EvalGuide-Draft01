@@ -73,7 +73,12 @@ This *next section* contains the steps you need to start implementing the DR sol
 
 ### Prerequisites
 
-//Content to be aded here...//
+In order to complete the deloyment steps you must have access to the Acronis and Azure Portals as below.
+
+* Access to **Acronis Cuber Cloud Portal** for the company that you wish to protect resources for; the URL for this portal is: https://eu-cloud.acronis.com/
+* Access to **Azure Portal** for the tenants subscriptions that you wish to protect resources for; the URL for this portal is: https://portal.azure.com
+
+//Additional content to be aded here...//
 
 --------
 
