@@ -75,7 +75,7 @@ This *next section* contains the steps you need to start implementing the DR sol
 
 In order to complete the deloyment steps you must have access to the Acronis and Azure Portals as below.
 
-* Access to **Acronis Cuber Cloud Portal** for the company that you wish to protect resources for; the URL for this portal is: https://eu-cloud.acronis.com/
+* Access to **Acronis Cyber Cloud Portal** for the company that you wish to protect resources for; the URL for this portal is: https://eu-cloud.acronis.com/
 * Access to **Azure Portal** for the tenants subscriptions that you wish to protect resources for; the URL for this portal is: https://portal.azure.com
 
 //Additional content can be aded here...//
@@ -86,30 +86,41 @@ In order to complete the deloyment steps you must have access to the Acronis and
 
 The Acronis agent can be addded by two methods.
 
-1. **Azure Portal using a VM extension**; this is the most streamlined process and has the most integrated feel, from within the VM resource to protect you install the Azure Virtual Machine Acronis Extension and once completed your *Acronis Agent configured Azure VM* will appear in the Acronis Portal under *Machines with agents* screen of the **DEVICES** section on the left hand navigation menu of the portal UI. You can also see the stauts if the agent from *Agents* screen of the **SETTINGS** section on the left hand navigation menu of the portal UI. *This may take a few minutes to appear*
+1. **Azure Portal using a VM extension**; this is the most streamlined process and has the most integrated feel, from within the VM resource to protect you install the Azure Virtual Machine Acronis Extension and once completed your *Acronis Agent configured Azure VM* will appear in the Acronis Portal under *Machines with agents* screen of the **DEVICES** section on the left hand navigation menu of the portal UI. You can also see the status if the agent from *Agents* screen of the **SETTINGS** section on the left hand navigation menu of the portal UI. *This may take a few minutes to appear*
 
 //Add Azure Portal Extension Image here...//
+
+//Add Acronis portal Image here...//
 
 Information on extensions can be found at this URL:
 * https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/overview
 
 
-2. **Acronis Portal and download installer**; 
+2. **Acronis Portal and download installer**; in this method you are required to login to the VM (*interactively via RDP session*), then from a browser access the *Cyber Protect Portal Console* and downloaded the appropriate agent installer and install directly on the VM to be protected.
 
+//Add Acronis portal Image here...//
 
-Access to Acronis Cuber Cloud Portal for the company that you wish to protect resources for; the URL for this portal is: https://eu-cloud.acronis.com/
+Information on agent installation can be found at this URL:
+* https://kb.acronis.com/content/55052
 
-//Content can be aded here...//
+Full and detailed information on Acronis Backup and Recovery can be found at this URL:
+https://www.acronis.com/en-us/support/documentation/CyberProtectionService/#backup-and-recovery.html
+
+//Additional content can be aded here...//
 
 
 ### Part 2 - Configure Acronis Agent
 
 //Content to be aded here...//
 
+//Additional content can be aded here...//
+
 
 ### Part 3 - Explore the management and operation of your Acronis DR solution
 
 //Content to be aded here...//
+
+//Additional content can be aded here...//
 
 ----------------
 
@@ -120,4 +131,6 @@ Access to Acronis Cuber Cloud Portal for the company that you wish to protect re
 ## Questions / feedback
 
 *Any questions can be addressed to the partner*
+
+//Additional content can be aded here...//
 
