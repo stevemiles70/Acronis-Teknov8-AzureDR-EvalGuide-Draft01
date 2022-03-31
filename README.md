@@ -71,8 +71,6 @@ This guide will walk you through deploying a sandboxed infrastructure - the gene
 ## Deployment Steps
 This *next section* contains the steps you need to start implementing the DR solution.
 
-*First thing though, this will require you to have the following things in place first:*
-
 ### Prerequisites
 
 //Content to be aded here...//
