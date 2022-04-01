@@ -96,6 +96,8 @@ In order to complete the deloyment steps you must have access to the Acronis and
 * Access to **Acronis Cyber Cloud Portal** for the company that you wish to protect resources for; the URL for this portal is: https://eu-cloud.acronis.com/
 * Access to **Azure Portal** for the tenants subscriptions that you wish to protect resources for; the URL for this portal is: https://portal.azure.com
 
+\
+\
 //Additional content can be aded here...//
 
 --------
@@ -125,6 +127,8 @@ The Acronis agent can be addded by two methods.
    Full and detailed information on Acronis Backup and Recovery can be found at this URL:
     * https://www.acronis.com/en-us/support/documentation/CyberProtectionService/#backup-and-recovery.html
 
+\
+\
 //Additional content can be aded here...//
 
 ----
