@@ -82,7 +82,7 @@ This guide will walk you through deploying a sandboxed infrastructure - the gene
 
 * **Part 2 - Configure Acronis Disaster Recovery**: In this step, you'll *configure the protection of the virtual machines*; this will include *creating a recovery plan* as well as *implementing VPN connectivity* between the Azure and Acronis platforms, and finally creating the *recovery server(s)* that you can failover to.
 
-* **Part 3 - Explore the management and operation of your Acronis DR solution**: With your deployment completed, you're now ready to explore many of the management and operational aspects within the Acronis portal.
+* **Part 3 - Explore the management and operation of your Acronis DR solution**: With your deployment completed, you're now ready to explore many of the management and operational aspects within the Acronis portal; such as carrting out *failover* and *failback* operations.
 
 ---
 
@@ -132,14 +132,14 @@ The Acronis agent can be addded by two methods.
 ### Part 2 - Configure for Acronis Disaster Recovery (DR)
 
 #### Workflow steps
-1. Create Protection Plan; should be set to *backup entire machine, or disks*
-2. Create at least *1 Recovery Point* before you can perform a failover to a Recovery Server
-3. Create Connectivity between Azure and Acronis; create an *Acronis Multi-Site IPsec VPN* Configuration
-4. Create Recovery Server
+1. Create **Protection Plan**; should be set to *backup entire machine, or disks*
+2. Create at least **1 Recovery Point** before you can perform a failover to a Recovery Server
+3. Create **VPN Connectivity** between Azure and Acronis; create an *Acronis Multi-Site IPsec VPN* Configuration
+4. Create **Recovery Server(s)**
 
 
 #### Prerequisites
-Before you can configure protection you must have completed steps 1 qand 2 from the worklow steps in this section i.e. you must have created a protection plan 
+Before you can configure *protection* for your Azure Virtual Machine, you **must have completed** *steps 1* and *2* from the worklow steps in this Part 2 section of this eval guide *i.e. you must have created a protection plan and created at least* **1 Recovery Point**.
 
 //Content to be aded here...//
 
