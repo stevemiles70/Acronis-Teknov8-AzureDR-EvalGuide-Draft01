@@ -139,7 +139,7 @@ The Acronis agent can be addded by two methods.
 
 
 #### Prerequisites
-Before you can configure *protection* for your Azure Virtual Machine, you **must have completed** *steps 1* and *2* from the worklow steps in this **Part 2** section of this eval guide *i.e. you must have created a protection plan and created at least* **1 Recovery Point**.
+Before you can configure *protection* for your Azure Virtual Machine, you **must have completed** *steps 1* and *2* from the worklow steps in this **Part 2** section of this eval guide *i.e. you must have created a **Protection Plan** and created at least* **1 Recovery Point**.
 
 //Content to be aded here...//
 
