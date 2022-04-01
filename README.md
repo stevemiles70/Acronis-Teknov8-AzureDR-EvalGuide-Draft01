@@ -54,10 +54,10 @@ https://www.youtube.com/playlist?list=PLJbh8iM59BMfWvpAKRCtejTKokGPItdIg
 * Acronis Data Cloud Technical Training: 2.2.5. Acronis Backup Cloud Supported Platforms
 
 **DR specific resources**
+* Introducing Acronis Disaster Recovery Cloud
 * Acronis Data Cloud Technical Training: 3.2.1. Disaster Recovery Cloud Basics
 * DR Basics | Acronis Cyber Disaster Recovery Cloud | Acronis Cyber Cloud Demo Series
 * Disaster Recovery Multi-Site IPsec VPN Configuration | Acronis Cyber Cloud Demo Series
-
 
        //Add Acronis YoouTube Channel Image here...//
 -----------
