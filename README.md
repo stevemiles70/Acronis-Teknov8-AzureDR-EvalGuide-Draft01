@@ -43,6 +43,24 @@ To be able to failover your critical workloads, you should back up your data to 
 **Yes** you can protect your **Azure IaaS VMs** with this **Acronis Disaster Recovery Solution**; this will allow your VM to failover to the //cloud// instance running in the Acronis Cyber Cloud platform and can be failed-back when required; A S2S VPN will be required to provide connectivity between the two sites (Azure and Acronis Platforms) to enable protection.
 
 -----------
+## Acronis Training Resources
+
+**Acronis You Tube Channel**
+https://www.youtube.com/playlist?list=PLJbh8iM59BMfWvpAKRCtejTKokGPItdIg
+
+* Acronis Data Cloud Technical Training: 1.2.1. Acronis Data Cloud Basics
+* Acronis Data Cloud Technical Training: 2.2.1. Backup service basics
+* Acronis Data Cloud Technical Training: 2.2.2. Acronis Backup Cloud Implementation models
+* Acronis Data Cloud Technical Training: 2.2.5. Acronis Backup Cloud Supported Platforms
+
+**DR specific resources**
+* Acronis Data Cloud Technical Training: 3.2.1. Disaster Recovery Cloud Basics
+* DR Basics | Acronis Cyber Disaster Recovery Cloud | Acronis Cyber Cloud Demo Series
+* Disaster Recovery Multi-Site IPsec VPN Configuration | Acronis Cyber Cloud Demo Series
+
+
+       //Add Acronis YoouTube Channel Image here...//
+-----------
 
 ## Evaluating in Azure
 Whilst you can backup and protect Azure IaaS VMs there is no seperate solution or agents to be used from the on-prem solution; there is a single set of install binaries and agents that are the same whether the Windows VM, for example, is running in your own on-premises or in an Azure Datacenter.
