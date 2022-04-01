@@ -133,8 +133,8 @@ The Acronis agent can be addded by two methods.
 
 #### Workflow steps
 1. Create **Protection Plan**; should be set to *backup entire machine, or disks*
-2. Create at least **1 Recovery Point** before you can perform a failover to a Recovery Server
-3. Create **VPN Connectivity** between Azure and Acronis; create an *Acronis Multi-Site IPsec VPN* Configuration
+2. Create at least **1 Recovery Point** before you can perform a failover to a *Recovery Server*
+3. Create **VPN Connectivity** between Azure and Acronis; create an **Acronis Multi-Site IPsec VPN** Configuration
 4. Create **Recovery Server(s)**
 
 
