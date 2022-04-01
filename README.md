@@ -131,6 +131,14 @@ The Acronis agent can be addded by two methods.
 
 ### Part 2 - Configure for Acronis Disaster Recovery (DR)
 
+#### Workflow steps
+1. Create Protection Plan
+2. Create Connectivity between Azure and Acronis; create an Acronis Multi-Site IPsec VPN Configuration
+3. ??Configure Protection??
+
+#### Prerequisites
+Before you can configure protection you must have completed steps 1 qand 2 from the worklow steps in this section i.e. you must have created a protection plan 
+
 //Content to be aded here...//
 
 //Additional content can be aded here...//
