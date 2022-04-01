@@ -149,6 +149,9 @@ Before you can configure *protection* for your Azure Virtual Machine, you **must
 
 #### 4. Create Recovery Server(s)
 
+
+\
+\
 //Content to be aded here...//
 
 //Additional content can be aded here...//
