@@ -152,7 +152,9 @@ Now that the *Acronis agent* has been isntalled on the Azure VM to be protected,
 
        //Add Acronis portal Image here...//
 
-The following URL provides a step by step demo of Creating the First Protection Plan: https://www.youtube.com/watch?v=AcgIMh0qdK8
+The following URLs providea step by step demos of Creating the First Protection Plan:
+* https://www.youtube.com/watch?v=AcgIMh0qdK8
+* https://youtu.be/ZpR7G0kW-CI
 
 //Additional content can be aded here...//
 
