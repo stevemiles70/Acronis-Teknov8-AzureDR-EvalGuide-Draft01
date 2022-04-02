@@ -152,7 +152,7 @@ Now that the *Acronis agent* has been isntalled on the Azure VM to be protected,
 
        //Add Acronis portal Image here...//
 
-The following URLs provide step by step demos of creating the first *Protection Plan* and *Reovery Point*:
+The following URLs provide step by step demos of creating the first *Protection Plan* and *Recovery Point*:
 * https://www.youtube.com/watch?v=AcgIMh0qdK8
 * https://youtu.be/ZpR7G0kW-CI
 
