@@ -147,16 +147,21 @@ Before you can configure *protection* for your Azure Virtual Machine, you **must
 
 #### 1. Create Protection Plan
 
+//Content to be aded here...//
+
 #### 2. Create Recovery Point 
 
+//Content to be aded here...//
+
 #### 3. Create VPN Connectivity
+
+//Content to be aded here...//
 
 #### 4. Create Recovery Server(s)
 
 
 \
 \
-//Content to be aded here...//
 
 //Additional content can be aded here...//
 
