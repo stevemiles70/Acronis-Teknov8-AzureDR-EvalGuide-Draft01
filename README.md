@@ -121,6 +121,7 @@ The Acronis agent can be addded by two methods.
 
    Information on agent installation can be found at these URLs:
     * https://kb.acronis.com/content/55052
+    * Install agent via *VM extension* in *Azure portal*
     * Agent-based Backups of Windows Machine | Acronis Cyber Backup Cloud |Acronis Cyber Cloud Demo Series https://youtu.be/BhfZdQI0SDg
 
    Full and detailed information on Acronis Backup and Recovery can be found at this URL:
