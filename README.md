@@ -148,6 +148,10 @@ Before you can configure *protection* for your Azure Virtual Machine, you **must
 
 //Content to be aded here...//
 
+Now that the *Acronis agent* has been isntalled on the Azure VM to be protected, and shows under *All devices* of the *Devices section* of the Acronis Cyber Cloud pirtal, you are now ready to create a **Protection plan**.
+
+       //Add Acronis portal Image here...//
+
 The following URL provides a step by step demo of Creating the First Protection Plan: https://www.youtube.com/watch?v=AcgIMh0qdK8
 
 #### 2. Create Recovery Point 
