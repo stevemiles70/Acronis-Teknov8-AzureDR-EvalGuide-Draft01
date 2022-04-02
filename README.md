@@ -146,9 +146,9 @@ The Acronis agent can be addded by two methods.
 #### Prerequisites
 Before you can configure *protection* for your Azure Virtual Machine, you **must have completed** *steps 1* and *2* from the worklow steps in this **Part 2** section of this eval guide *i.e. you must have created a **Protection Plan** and created at least* **1 Recovery Point**.
 
-#### 1. Create Protection Plan
+#### 1. Create Protection Plan & Recovery Pount
 
-Now that the *Acronis agent* has been isntalled on the Azure VM to be protected, and shows under *All devices* of the *Devices section* of the *Acronis Cyber Cloud Portal*, you are now ready to create a **Protection plan**.
+Now that the *Acronis agent* has been isntalled on the Azure VM to be protected, and shows under *All devices* of the *Devices section* of the *Acronis Cyber Cloud Portal*, you are now ready to create a **Protection Plan**, and at least **1 Recoevry Point**.
 
        //Add Acronis portal Image here...//
 
