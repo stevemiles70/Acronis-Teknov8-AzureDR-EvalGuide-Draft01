@@ -148,6 +148,8 @@ Before you can configure *protection* for your Azure Virtual Machine, you **must
 
 //Content to be aded here...//
 
+The following URL provides a step by step demo of Creating the First Protection Plan: https://www.youtube.com/watch?v=AcgIMh0qdK8
+
 #### 2. Create Recovery Point 
 
 //Content to be aded here...//
