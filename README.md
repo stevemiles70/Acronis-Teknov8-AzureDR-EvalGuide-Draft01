@@ -174,6 +174,8 @@ Before you can configure *protection* for your Azure Virtual Machine, you **must
 
 //Content to be aded here...//
 
+\
+\
 //Additional content can be aded here...//
 
 ----------------
@@ -186,5 +188,7 @@ Before you can configure *protection* for your Azure Virtual Machine, you **must
 
 *Any questions can be addressed to the partner*
 
+\
+\
 //Additional content can be aded here...//
 
