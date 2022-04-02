@@ -162,7 +162,6 @@ Before you can configure *protection* for your Azure Virtual Machine, you **must
 
 \
 \
-
 //Additional content can be aded here...//
 
 ----
