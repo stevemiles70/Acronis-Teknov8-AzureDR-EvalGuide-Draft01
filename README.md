@@ -82,7 +82,7 @@ This guide will walk you through deploying a sandboxed infrastructure - the gene
 
 * **Part 2 - Configure Acronis Disaster Recovery**: In this step, you'll *configure the protection of the virtual machines*; this will include *creating a recovery plan* as well as *implementing VPN connectivity* between the Azure and Acronis platforms, and finally creating the *recovery server(s)* that you can failover to.
 
-* **Part 3 - Explore the management and operation of your Acronis DR solution**: With your deployment completed, you're now ready to explore many of the management and operational aspects within the Acronis portal; such as carrting out *failover* and *failback* operations.
+* **Part 3 - Operation of your Acronis DR solution**: With your deployment completed, you're now ready to explore many of the management and operational aspects within the Acronis portal; such as carrting out *failover* and *failback* operations.
 
 ---
 
@@ -160,11 +160,17 @@ The following URLs provide step by step demos of creating the first *Protection 
 
 #### 2. Create VPN Connectivity
 
-//Content to be aded here...//
+The following URL provides step by step demos of creating a *Site-to-Site IPsec VPN*:
+https://www.youtube.com/watch?v=EWFmswp9QpA&feature=youtu.be
+
+\
+\
+//Additional content can be aded here...//
 
 #### 3. Create Recovery Server(s)
 
-//Content to be aded here...//
+The following URL provides step by step demos of creating a*Recovery Server(s)*:
+https://youtu.be/ygFcqnrXrn4
 
 \
 \
@@ -172,17 +178,14 @@ The following URLs provide step by step demos of creating the first *Protection 
 
 ----
 
-### Part 3 - Explore the management and operation of your Acronis DR solution
+### Part 3 - Operation of your Acronis DR solution
 
 #### Workflow steps
 1. Perform *failover* operation
 2. Perform *failback* operation
 
-//Content to be aded here...//
-
-\
-\
-//Additional content can be aded here...//
+The following URL provides step by step demos of creating a*failover and failback*:
+https://youtu.be/ygFcqnrXrn4
 
 ----------------
 
