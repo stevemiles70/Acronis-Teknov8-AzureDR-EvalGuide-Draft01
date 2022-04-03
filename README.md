@@ -163,8 +163,6 @@ The following URLs provide step by step demos of creating the first *Protection 
 The following URL provides step by step demos of creating a *Site-to-Site IPsec VPN*:
 https://www.youtube.com/watch?v=EWFmswp9QpA&feature=youtu.be
 
-\
-\
 //Additional content can be aded here...//
 
 #### 3. Create Recovery Server(s)
@@ -172,8 +170,6 @@ https://www.youtube.com/watch?v=EWFmswp9QpA&feature=youtu.be
 The following URL provides step by step demos of creating a*Recovery Server(s)*:
 https://youtu.be/ygFcqnrXrn4
 
-\
-\
 //Additional content can be aded here...//
 
 ----
@@ -188,7 +184,6 @@ The following URL provides step by step demos of creating a*failover and failbac
 https://youtu.be/ygFcqnrXrn4
 
 ----------------
-
 \
 \
 **[Click Here to go Back to Top](#Acronis-Teknov8-AzureDR-EvalGuide-Draft01)**
