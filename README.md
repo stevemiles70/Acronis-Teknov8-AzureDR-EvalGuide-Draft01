@@ -121,6 +121,8 @@ The Acronis agent can be addded by two methods.
     * https://www.acronis.com/en-us/support/documentation/CyberProtectionService/#backup-and-recovery.html
 
   ![Acronis Portal Manual install](assets/2022-04-03%2017_30_40-How%20to%20Back%20Up%20an%20Azure%20Virtual%20Machine%20Using%20the%20Acronis%20Backup%20Cloud%20-%20YouTube.png "Acronis Portal Manual install")
+  
+    ![Acronis Portal Manual install](assets/2022-04-03%2017_43_19-How%20to%20Back%20Up%20an%20Azure%20Virtual%20Machine%20Using%20the%20Acronis%20Backup%20Cloud%20-%20YouTube.png "Acronis Portal Manual install")
 
 ----
 
@@ -140,27 +142,19 @@ Before you can configure *protection* for your Azure Virtual Machine, you **must
 
 Now that the *Acronis agent* has been isntalled on the Azure VM to be protected, and shows under *All devices* of the *Devices section* of the *Acronis Cyber Cloud Portal*, you are now ready to create a **Protection Plan**, and at least **1 Recoevry Point**.
 
-       //Add Acronis portal Image here...//
-
 The following URLs provide step by step demos of creating the first *Protection Plan* and *Recovery Point*:
 * https://www.youtube.com/watch?v=AcgIMh0qdK8
 * https://youtu.be/ZpR7G0kW-CI
-
-//Additional content can be aded here...//
 
 #### 2. Create VPN Connectivity
 
 The following URL provides step by step demos of creating a *Site-to-Site IPsec VPN*:
 https://www.youtube.com/watch?v=EWFmswp9QpA&feature=youtu.be
 
-//Additional content can be aded here...//
-
 #### 3. Create Recovery Server(s)
 
 The following URL provides step by step demos of creating a *Recovery Server(s)*:
 https://youtu.be/ygFcqnrXrn4
-
-//Additional content can be aded here...//
 
 ----
 
@@ -176,9 +170,5 @@ https://youtu.be/ygFcqnrXrn4
 ----------------
 **[Click Here to go Back to Top](#Acronis-Teknov8-AzureDR-EvalGuide-Draft01)**
 
-## Questions / feedback
-
-*Any questions can be addressed to the partner*
-
-//Additional content can be aded here...//
-
+## Summary
+In this documentation set we walked you through implementing a **DR Solution** for **Azure IaaS VMs** using **Acronis Cyber Cloud Disaster Recovery**  
