@@ -157,6 +157,10 @@ If using the **Azure VNet Gateway** to provide the connectivity to Acronis, then
 From the Acronis portal side,  the **Connection Settings** for the VPN tunnel can be left at **default**; apart from the **Pre-Shared Key** which must be copied in from the **Azure VNet Gateway** configuration from the *Azure Portal*.
 
   ![VPN connection settings for Azure VPN Gateway](assets/2022-04-03%2018_10_26-Acronis%20-%20Microsoft%20Azure.png "VPN connection settings for Azure VPN Gateway")
+  
+  ![VPN connection Acronis Portal](assets/2022-04-03%2018_14_36-Cyber%20Protect%20Console.png "VPN connection Acronis Portal")
+    
+k
 
 #### 3. Create Recovery Server(s)
 
