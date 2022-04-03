@@ -163,7 +163,7 @@ https://www.youtube.com/watch?v=EWFmswp9QpA&feature=youtu.be
 
 #### 3. Create Recovery Server(s)
 
-The following URL provides step by step demos of creating a*Recovery Server(s)*:
+The following URL provides step by step demos of creating a *Recovery Server(s)*:
 https://youtu.be/ygFcqnrXrn4
 
 //Additional content can be aded here...//
@@ -176,7 +176,7 @@ https://youtu.be/ygFcqnrXrn4
 1. Perform *failover* operation
 2. Perform *failback* operation
 
-The following URL provides step by step demos of creating a*failover and failback*:
+The following URL provides step by step demos of creating a *failover and failback*:
 https://youtu.be/ygFcqnrXrn4
 
 ----------------
