@@ -59,7 +59,11 @@ https://www.youtube.com/playlist?list=PLJbh8iM59BMfWvpAKRCtejTKokGPItdIg
 * DR Basics | Acronis Cyber Disaster Recovery Cloud | Acronis Cyber Cloud Demo Series
 * Disaster Recovery Multi-Site IPsec VPN Configuration | Acronis Cyber Cloud Demo Series
 
-       //Add Acronis YoouTube Channel Image here...//
+       //Add Acronis YouTube Channel Image here...//
+       
+    
+![Acronis YouTube Channel](assets/2022-04-03%2016_29_39-Acronis%20-%20YouTube.png "Acronis YouTube Channel")
+       
 -----------
 
 ## Evaluating in Azure
