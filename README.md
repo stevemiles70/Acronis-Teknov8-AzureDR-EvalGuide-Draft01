@@ -151,6 +151,13 @@ The following URLs provide step by step demos of creating the first *Protection 
 The following URL provides step by step demos of creating a *Site-to-Site IPsec VPN*:
 https://www.youtube.com/watch?v=EWFmswp9QpA&feature=youtu.be
 
+##### Specific VPN configuration for Azure VPN Gateway
+If using the **Azure VNet Gateway** to provide the connectivity to Acronis, then you will require the below specific configuration to be applied to the **Azure Virtual Network Gateway**. 
+
+From the Acronis portal side,  the **Connection Settings** for the VPN tunnel can be left at **default**; apart from the **Pre-Shared Key** which must be copied in from the **Azure VNet Gateway** configuration from the *Azure Portal*.
+
+  ![VPN connection settings for Azure VPN Gateway](assets/2022-04-03%2018_10_26-Acronis%20-%20Microsoft%20Azure.png "VPN connection settings for Azure VPN Gateway")
+
 #### 3. Create Recovery Server(s)
 
 The following URL provides step by step demos of creating a *Recovery Server(s)*:
