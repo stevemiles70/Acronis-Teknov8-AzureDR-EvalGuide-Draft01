@@ -48,16 +48,16 @@ To be able to failover your critical workloads, you should back up your data to 
 **Acronis You Tube Channel**
 https://www.youtube.com/playlist?list=PLJbh8iM59BMfWvpAKRCtejTKokGPItdIg
 
-* Acronis Data Cloud Technical Training: 1.2.1. Acronis Data Cloud Basics
-* Acronis Data Cloud Technical Training: 2.2.1. Backup service basics
-* Acronis Data Cloud Technical Training: 2.2.2. Acronis Backup Cloud Implementation models
-* Acronis Data Cloud Technical Training: 2.2.5. Acronis Backup Cloud Supported Platforms
+* Acronis Data Cloud Technical Training: 1.2.1. Acronis Data Cloud Basics https://youtu.be/nWp73LyvsUQ
+* Acronis Data Cloud Technical Training: 2.2.1. Backup service basics https://youtu.be/XzaW51jvnS8
+* Acronis Data Cloud Technical Training: 2.2.2. Acronis Backup Cloud Implementation models https://youtu.be/0XmLR4P5ADY
+* Acronis Data Cloud Technical Training: 2.2.5. Acronis Backup Cloud Supported Platforms https://youtu.be/ml1wD7yVFUs
 
 **DR specific resources**
-* Introducing Acronis Disaster Recovery Cloud
-* Acronis Data Cloud Technical Training: 3.2.1. Disaster Recovery Cloud Basics
-* DR Basics | Acronis Cyber Disaster Recovery Cloud | Acronis Cyber Cloud Demo Series
-* Disaster Recovery Multi-Site IPsec VPN Configuration | Acronis Cyber Cloud Demo Series
+* Introducing Acronis Disaster Recovery Cloud https://youtu.be/cnVLKrcd6JA
+* Acronis Data Cloud Technical Training: 3.2.1. Disaster Recovery Cloud Basics https://youtu.be/iE1sIEydNYE
+* DR Basics | Acronis Cyber Disaster Recovery Cloud | Acronis Cyber Cloud Demo Series https://youtu.be/0G_KZgPBlY0
+* Disaster Recovery Multi-Site IPsec VPN Configuration | Acronis Cyber Cloud Demo Series https://youtu.be/EWFmswp9QpA
     
 ![Acronis YouTube Channel](assets/2022-04-03%2016_29_39-Acronis%20-%20YouTube.png "Acronis YouTube Channel")
        
