@@ -97,8 +97,6 @@ In order to complete the deloyment steps you must have access to the Acronis and
 * Access to **Acronis Cyber Cloud Portal** for the company that you wish to protect resources for; the URL for this portal is: https://eu-cloud.acronis.com/
 * Access to **Azure Portal** for the tenants subscriptions that you wish to protect resources for; the URL for this portal is: https://portal.azure.com
 
-//Additional content can be aded here...//
-
 --------
 
 ### Part 1 - Deploy Acronis Agent
@@ -121,8 +119,6 @@ The Acronis agent can be addded by two methods.
     * https://www.acronis.com/en-us/support/documentation/CyberProtectionService/#backup-and-recovery.html
 
   ![Acronis Portal Manual install](assets/2022-04-03%2017_30_40-How%20to%20Back%20Up%20an%20Azure%20Virtual%20Machine%20Using%20the%20Acronis%20Backup%20Cloud%20-%20YouTube.png "Acronis Portal Manual install")
-
-//Additional content can be aded here...//
 
 ----
 
