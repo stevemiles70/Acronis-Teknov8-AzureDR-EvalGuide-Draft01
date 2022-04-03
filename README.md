@@ -180,8 +180,6 @@ The following URL provides step by step demos of creating a*failover and failbac
 https://youtu.be/ygFcqnrXrn4
 
 ----------------
-\
-\
 **[Click Here to go Back to Top](#Acronis-Teknov8-AzureDR-EvalGuide-Draft01)**
 
 ## Questions / feedback
