@@ -122,7 +122,7 @@ The Acronis agent can be addded by two methods.
 
   ![Acronis Portal Manual install](assets/2022-04-03%2017_30_40-How%20to%20Back%20Up%20an%20Azure%20Virtual%20Machine%20Using%20the%20Acronis%20Backup%20Cloud%20-%20YouTube.png "Acronis Portal Manual install")
   
-    ![Acronis Portal Manual install](assets/2022-04-03%2017_43_19-How%20to%20Back%20Up%20an%20Azure%20Virtual%20Machine%20Using%20the%20Acronis%20Backup%20Cloud%20-%20YouTube.png "Acronis Portal Manual install")
+  ![Acronis Portal Manual install](assets/2022-04-03%2017_43_19-How%20to%20Back%20Up%20an%20Azure%20Virtual%20Machine%20Using%20the%20Acronis%20Backup%20Cloud%20-%20YouTube.png "Acronis Portal Manual install")
 
 ----
 
