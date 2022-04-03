@@ -59,7 +59,7 @@ https://www.youtube.com/playlist?list=PLJbh8iM59BMfWvpAKRCtejTKokGPItdIg
 * DR Basics | Acronis Cyber Disaster Recovery Cloud | Acronis Cyber Cloud Demo Series https://youtu.be/0G_KZgPBlY0
 * Disaster Recovery Multi-Site IPsec VPN Configuration | Acronis Cyber Cloud Demo Series https://youtu.be/EWFmswp9QpA
     
-![Acronis YouTube Channel](assets/2022-04-03%2016_29_39-Acronis%20-%20YouTube.png "Acronis YouTube Channel")
+  ![Acronis YouTube Channel](assets/2022-04-03%2016_29_39-Acronis%20-%20YouTube.png "Acronis YouTube Channel")
        
 -----------
 
@@ -107,14 +107,14 @@ The Acronis agent can be addded by two methods.
 
 1. **Azure Portal using a VM extension**; this is the most streamlined process and has the most integrated feel, from within the VM resource to protect you install the Azure Virtual Machine Acronis Extension and once completed your *Acronis Agent configured Azure VM* will appear in the Acronis Portal under *Machines with agents* screen of the **DEVICES** section on the left hand navigation menu of the portal UI. You can also see the status if the agent from *Agents* screen of the **SETTINGS** section on the left hand navigation menu of the portal UI. *This may take a few minutes to appear*
 
-![Azure Portal VM Extension](assets/2022-04-03%2017_26_51-How%20to%20Back%20Up%20an%20Azure%20Virtual%20Machine%20Using%20the%20Acronis%20Backup%20Cloud%20-%20YouTube.png "Azure Portal VM Extension")
+  ![Azure Portal VM Extension](assets/2022-04-03%2017_26_51-How%20to%20Back%20Up%20an%20Azure%20Virtual%20Machine%20Using%20the%20Acronis%20Backup%20Cloud%20-%20YouTube.png "Azure Portal VM Extension")
 
    Information on extensions can be found at this URL:
     * https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/overview
 
 2. **Acronis Portal and download installer**; in this method you are required to login to the VM (*interactively via RDP session*), then from a browser access the *Cyber Protect Portal Console* and download the appropriate agent installer and install directly on the VM to be protected.
 
-![Acronis Portal Manual install](assets/2022-04-03%2017_30_40-How%20to%20Back%20Up%20an%20Azure%20Virtual%20Machine%20Using%20the%20Acronis%20Backup%20Cloud%20-%20YouTube.png "Acronis Portal Manual install")
+  ![Acronis Portal Manual install](assets/2022-04-03%2017_30_40-How%20to%20Back%20Up%20an%20Azure%20Virtual%20Machine%20Using%20the%20Acronis%20Backup%20Cloud%20-%20YouTube.png "Acronis Portal Manual install")
 
    Information on agent installation can be found at these URLs:
     * https://kb.acronis.com/content/55052
