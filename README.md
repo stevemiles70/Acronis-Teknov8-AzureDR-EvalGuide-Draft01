@@ -160,7 +160,7 @@ From the Acronis portal side,  the **Connection Settings** for the VPN tunnel ca
   
   ![VPN connection Acronis Portal](assets/2022-04-03%2018_14_36-Cyber%20Protect%20Console.png "VPN connection Acronis Portal")
     
-k
+
 
 #### 3. Create Recovery Server(s)
 
