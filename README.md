@@ -8,7 +8,7 @@ https://www.acronis.com/en-gb/products/backup/disaster-recovery/
 
 From your implemented DR scenario you will then be able to:
 
-* Explore the management and operational aspects of DR using the *Acronis Cyber protect console*
+* Explore the management and operational aspects of DR using the *Acronis Cyber Protect console*
 
 ----
 **[Click Here to jump to Deployment Steps](#deployment-Workflow)**
